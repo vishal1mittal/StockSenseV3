@@ -1,0 +1,117 @@
+{
+    "feeds": {
+        "NSE_INDEX|Nifty Bank": {
+            "fullFeed": {
+                "indexFF": {
+                    "ltpc": {
+                        "ltp": 57312.75,
+                        "ltt": "1751279400000",
+                        "cp": 57443.9
+                    },
+                    "marketOHLC": {
+                        "ohlc": [
+                            {
+                                "interval": "1d",
+                                "open": 57529.95,
+                                "high": 57614.5,
+                                "low": 57193.8,
+                                "close": 57312.75,
+                                "ts": "1751221800000"
+                            },
+                            {
+                                "interval": "I1",
+                                "open": 57318.55,
+                                "high": 57318.55,
+                                "low": 57318.55,
+                                "close": 57318.55,
+                                "ts": "1751277600000"
+                            }
+                        ]
+                    }
+                }
+            },
+            "requestMode": "full_d5"
+        },
+        "NSE_EQ|INE101A01026": {
+            "fullFeed": {
+                "marketFF": {
+                    "ltpc": {
+                        "ltp": 3183.2,
+                        "ltt": "1751279076601",
+                        "ltq": "7",
+                        "cp": 3203.3
+                    },
+                    "marketLevel": {
+                        "bidAskQuote": [
+                            { "askQ": "777", "askP": 3183.2 },
+                            {},
+                            {},
+                            {},
+                            {}
+                        ]
+                    },
+                    "optionGreeks": {},
+                    "marketOHLC": {
+                        "ohlc": [
+                            {
+                                "interval": "1d",
+                                "open": 3205.4,
+                                "high": 3219.8,
+                                "low": 3161,
+                                "close": 3183.2,
+                                "vol": "2083572",
+                                "ts": "1751221800000"
+                            },
+                            {
+                                "interval": "I1",
+                                "open": 3177.7,
+                                "high": 3179.9,
+                                "low": 3175.5,
+                                "close": 3178.8,
+                                "vol": "6164",
+                                "ts": "1751277540000"
+                            }
+                        ]
+                    },
+                    "atp": 3184.38,
+                    "vtt": "2083572",
+                    "tsq": 777
+                }
+            },
+            "requestMode": "full_d5"
+        },
+        "NSE_INDEX|Nifty 50": {
+            "fullFeed": {
+                "indexFF": {
+                    "ltpc": {
+                        "ltp": 25517.05,
+                        "ltt": "1751279400000",
+                        "cp": 25637.8
+                    },
+                    "marketOHLC": {
+                        "ohlc": [
+                            {
+                                "interval": "1d",
+                                "open": 25661.65,
+                                "high": 25669.35,
+                                "low": 25473.3,
+                                "close": 25517.05,
+                                "ts": "1751221800000"
+                            },
+                            {
+                                "interval": "I1",
+                                "open": 25513.8,
+                                "high": 25513.8,
+                                "low": 25513.8,
+                                "close": 25513.8,
+                                "ts": "1751277600000"
+                            }
+                        ]
+                    }
+                }
+            },
+            "requestMode": "full_d5"
+        }
+    },
+    "currentTs": "1751306097041"
+}
