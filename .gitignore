@@ -38,3 +38,6 @@ coverage/
 
 # Zip
 *.zip
+
+/DjangoApi/Scripts/
+/DjangoApi/Lib/
